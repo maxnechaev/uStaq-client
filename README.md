@@ -1,5 +1,5 @@
 uStaq Server: https://github.com/maxnechaev/uStaq-server
 
-sign up for Google NLP API credentials
-create ga.json file in root directory -- add credentials
-go nuts
+1) sign up for Google NLP API credentials
+2) create ga.json file in root directory -- add credentials
+3) go nuts
